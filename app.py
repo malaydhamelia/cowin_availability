@@ -179,4 +179,3 @@ else:
 pageviews=Pageviews()
 pageviews.append('dummy')
 pg_views = len(pageviews)
-footer(pg_views)
